@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+nltk
+scikit-learn
+transformers
+Flask
+flask-cors
+requests
+bs4
+transformers
+torch

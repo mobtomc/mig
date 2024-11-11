@@ -1,0 +1,22 @@
+# Node.js specific
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# npm package lock (if you want to ignore package-lock.json, otherwise keep it)
+package-lock.json
+yarn.lock

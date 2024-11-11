@@ -1,0 +1,32 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Dependency management
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Python package lock (if you’re using pipenv or poetry)
+Pipfile.lock
+poetry.lock
